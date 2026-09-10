@@ -1,0 +1,1 @@
+alert ('ello world from JS');
