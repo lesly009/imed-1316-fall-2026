@@ -1,1 +1,2 @@
-alert ('hello world from JS');
+// just testing the js file
+// alert ('hello world from JS');
