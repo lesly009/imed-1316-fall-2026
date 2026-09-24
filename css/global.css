@@ -1,0 +1,18 @@
+/*
+60 of #C47F86
+30 of #A86C9C
+10 of #765568
+*/
+
+:root {
+
+/* var(--primaryColor) */
+--primaryColor:#C47F86;
+
+/* var(--secondaryColor) */
+--secondaryColor:#A86C9C;
+
+/* var(--accentColor) */
+--accentColor:#765568;
+
+}
