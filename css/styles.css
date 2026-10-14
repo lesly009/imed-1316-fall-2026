@@ -28,3 +28,12 @@ padding: 25px;
 .p-one{
   color: #000
 }
+.fa-footer { 
+background-color: var(--primaryColor);
+padding: 25px;
+}
+
+.fa-footer {
+  color: fff;
+ font-size: 25px;
+}
