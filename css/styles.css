@@ -14,7 +14,9 @@ background-color: var(--primaryColor);
 padding: 25px;
 }
 
-
+.font-awesome-icons i {
+  font-size: 60x;
+}
 .montserrat-imed {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
