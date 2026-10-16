@@ -22,12 +22,19 @@ padding: 25px;
   font-optical-sizing: auto;
   font-weight:bold;
   font-style: normal;
+
 }
 
 
 .p-one{
   color: #000
+  line-hight: 1,2;
+  padding: 15px;
+  border: 2px solid red;
+  margin: 15px;
+
 }
+  
 .fa-footer { 
 background-color: var(--primaryColor);
 padding: 25px;
@@ -37,4 +44,10 @@ padding: 25px;
   color: fff;
  font-size: 25px;
  margin:15px;
+}
+
+.imd-ing{
+ with: 100%;
+
+
 }
